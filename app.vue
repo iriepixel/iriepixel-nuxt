@@ -6,7 +6,7 @@
     </Head>
     <div class="flex flex-col items-center justify-center h-screen text-white bg-black">
       <div class=" w-[300px] h-[300px]">
-        <img class="" src="/under-construction.gif" />
+        <img class="" src="/under-construction.webp" />
       </div>
       <h1 class="my-4 text-[20px] font-bold">IRIE PIXEL</h1>
       <div class="text-center max-w-[400px] mb-6">
