@@ -737,7 +737,7 @@
     which "^3.0.1"
     ws "^8.18.0"
 
-"@nuxt/image@^1.8.1":
+"@nuxt/image@^1.7.0":
   version "1.8.1"
   resolved "https://registry.yarnpkg.com/@nuxt/image/-/image-1.8.1.tgz#8d3370ebaa687e4069763e993162e8acc24bda38"
   integrity sha512-qNj7OCNsoGcutGOo1R2PYp4tQ/6uD77aSakyDoVAmLSRJBmhFTnT2+gIqVD95JMmkSHgYhmSX4gGxnaQK/t1cw==
@@ -864,7 +864,7 @@
     vite-plugin-checker "^0.8.0"
     vue-bundle-renderer "^2.1.1"
 
-"@nuxtjs/tailwindcss@^6.12.2":
+"@nuxtjs/tailwindcss@^6.12.1":
   version "6.12.2"
   resolved "https://registry.yarnpkg.com/@nuxtjs/tailwindcss/-/tailwindcss-6.12.2.tgz#3fa41b0b9361cd69ec14934f800e66225b3c9e1f"
   integrity sha512-qPJiFH67CkTj/2kBGBzqXihOD1rQXMsbVS4vdQvfBxOBLPfGhU1yw7AATdhPl2BBjO2krjJLuZj39t7dnDYOwg==
@@ -3976,7 +3976,7 @@ nuxi@^3.15.0:
   resolved "https://registry.yarnpkg.com/nuxi/-/nuxi-3.15.0.tgz#ed54923ca46727c6e7df10495143db340d9791c9"
   integrity sha512-ZVu45nuDrdb7nzKW2kLGY/N1vvFYLLbUVX6gUYw4BApKGGu4+GktTR5o48dGVgMYX9A8chaugl7TL9ZYmwC9Mg==
 
-nuxt@^3.14.0:
+nuxt@^3.12.2:
   version "3.14.0"
   resolved "https://registry.yarnpkg.com/nuxt/-/nuxt-3.14.0.tgz#a3e5c39f6eced7336384b92579a5dbf35f63ba00"
   integrity sha512-9RvptD0czK683RcD7tmrYtOk86TiW485gZob/tj1YiLVx+gmKJsq+1+kbl6XTg/cg9mbV9lNfErlCNPgXurs2A==
@@ -5741,7 +5741,7 @@ vue-devtools-stub@^0.1.0:
   resolved "https://registry.yarnpkg.com/vue-devtools-stub/-/vue-devtools-stub-0.1.0.tgz#a65b9485edecd4273cedcb8102c739b83add2c81"
   integrity sha512-RutnB7X8c5hjq39NceArgXg28WZtZpGc3+J16ljMiYnFhKvd8hITxSWQSQ5bvldxMDU6gG5mkxl1MTQLXckVSQ==
 
-vue-router@^4.4.5, vue-router@latest:
+vue-router@^4.4.5:
   version "4.4.5"
   resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.4.5.tgz#bdf535e4cf32414ebdea6b4b403593efdb541388"
   integrity sha512-4fKZygS8cH1yCyuabAXGUAsyi1b2/o/OKgu/RUb+znIYOxPRxdkytJEx+0wGcpBE1pX6vUgh5jwWOKRGvuA/7Q==
