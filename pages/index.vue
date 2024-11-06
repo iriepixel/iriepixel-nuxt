@@ -1,11 +1,4 @@
 <template>
-  <Head>
-    <Title>IRIE PIXEL - Contract Web Developer & Front-end Engineer</Title>
-    <Meta
-      name="description"
-      content="Contract Web Developer - JavaScript, React, Vue, Next, Nuxt - Brighton / London / Remote"
-    />
-  </Head>
   <div class="flex flex-col items-center justify-center h-screen text-white bg-black/95">
     <NuxtImg
       class="mb-8 rounded-full size-[200px] md:size-[300px]"
